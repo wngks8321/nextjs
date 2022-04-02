@@ -4,7 +4,7 @@ import Image from 'next/image';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Kim JooHan';
+const name = '이름';
 export const siteTitle = 'Next.js 샘플 웹사이트';
 
 export default function Layout({ children, home }) {
